@@ -1,2 +1,6 @@
 # simple-BS
-demo BS request
+```shell
+// in root directory
+npm install
+npm run start
+```
